@@ -19,11 +19,9 @@ Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Program:
 ```
-Gram-Schmidt Method
-'''
 Program to QR decomposition using the Gram-Schmidt method
-Developed by: KEERTHANA S
-RegisterNumber: 23013398
+Developed by: JYESVANTHE V
+RegisterNumber: 23013991
 '''
 import numpy as np
 def QR_Decomposition(A):
